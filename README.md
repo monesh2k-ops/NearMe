@@ -49,6 +49,19 @@ DOCTYPE html>
 
 
 ## OUTPUT
+<img width="879" height="343" alt="Screenshot 2025-10-08 171655" src="https://github.com/user-attachments/assets/4d8259fe-01eb-4f66-8d98-6118f1c944b1" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-08 171733" src="https://github.com/user-attachments/assets/eb995977-9eab-46a7-a3e8-71f7e6b73956" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-08 171755" src="https://github.com/user-attachments/assets/e73fbcc2-8dff-40ee-acc0-16764f0e9d49" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-08 171810" src="https://github.com/user-attachments/assets/ae9dacab-f004-4f4f-a204-bfa245cdf6a1" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-08 171902" src="https://github.com/user-attachments/assets/27e5e17c-50a4-48ed-a45d-765c631026d7" />
+
+
+
+
 
 
 
